@@ -1,0 +1,55 @@
+body{
+    background: lightgreen;
+    color: black;
+}
+.contenedor{
+    max-width: auto;
+    min-width: 500px;
+    max-height: auto;
+    min-height: 450px;
+    color: black;
+    padding:2em;    
+}
+.header {
+        background: green;
+        text-align:center; ;
+        font-size:14pt;
+        padding: 1em;
+        height: auto;
+        }
+.article {
+        background: lightgrey;
+        text-align:center; ;
+        font-size:14pt;
+        padding: 1em;
+        height: 20em;   
+        }
+.section1 {
+        float: left;
+        background: lightpink;
+        text-align:center; ;
+        font-size:14pt;
+        padding: 1em;
+        height: 10em;
+        width: 10em; 
+        margin-top: 1em  
+        }
+.section2 {
+        float: right;
+        background: red;
+        text-align:center; ;
+        font-size:14pt;
+        padding: 1em;
+        height: 10em;   
+        width: 10em;
+        }
+.footer {
+        background: lightyellow;
+        color: black;
+        text-align:center;
+        font-size:14pt;
+        padding: 1em;
+        height: 2em;   
+        width: auto; 
+        margin-top: 1em;  
+        }
